@@ -26,13 +26,19 @@
         {
           "fechaMovimiento": "2021/10/08 10:33",
           "numeroguia": "1000188286",
-          "situacion": "PREDOCUMENTADO",
+          "situacion": "ORIGEN",
           "localizacion": "CHIHUAHUA INDUSTRIAS"
         },
         {
           "fechaMovimiento": "2021/10/08 10:46",
           "numeroguia": "1000188286",
-          "situacion": "CANCELADO",
+          "situacion": "TRANSITO",
+          "localizacion": "CHIHUAHUA INDUSTRIAS"
+        },
+        {
+          "fechaMovimiento": "2021/10/08 10:46",
+          "numeroguia": "1000188286",
+          "situacion": "DESTINO",
           "localizacion": "CHIHUAHUA INDUSTRIAS"
         }
       ],
@@ -67,13 +73,19 @@
         {
           "fechaMovimiento": "2021/10/08 10:33",
           "numeroguia": "1000188286",
-          "situacion": "PREDOCUMENTADO",
+          "situacion": "ORIGEN",
           "localizacion": "COLIMA INDUSTRIAS"
         },
         {
           "fechaMovimiento": "2021/10/08 10:46",
           "numeroguia": "1000188286",
-          "situacion": "CANCELADO",
+          "situacion": "TRANSITO",
+          "localizacion": "COLIMA INDUSTRIAS"
+        },
+        {
+          "fechaMovimiento": "2021/10/08 10:46",
+          "numeroguia": "1000188286",
+          "situacion": "DESTINO",
           "localizacion": "COLIMA INDUSTRIAS"
         }
       ],
